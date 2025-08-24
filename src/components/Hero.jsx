@@ -78,7 +78,7 @@ const Hero = () => {
             </div>
           </a>
         </div>
-
+  /*
         <div>
           <img
             className="absolute bottom-0 ml-[50vw] 
@@ -88,6 +88,7 @@ const Hero = () => {
             alt="sweet"
           />
         </div>
+        */
       </section>
     </>
   );
